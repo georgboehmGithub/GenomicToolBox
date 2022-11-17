@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AugmentedTree">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/GoBI/assignment3/libs/AugmentedTree.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/GoBI/assignment3/libs/htsjdk-2.21.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/GoBI/assignment3/libs/AugmentedTree.jar!/" />
+    </SOURCES>
+  </library>
+</component>

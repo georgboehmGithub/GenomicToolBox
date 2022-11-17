@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="assignments:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/assignments_jar</output-path>
+    <root id="archive" name="assignments.jar">
+      <element id="module-output" name="assignments" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/GoBI/assignment3/libs/AugmentedTree.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/GoBI/assignment3/libs/htsjdk-2.21.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/killme/commons-math3-3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="module-source" name="assignments" />
+    </root>
+  </artifact>
+</component>
